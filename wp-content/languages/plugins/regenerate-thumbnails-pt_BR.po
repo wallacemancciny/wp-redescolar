@@ -1,0 +1,143 @@
+# Translation of Plugins - Regenerate Thumbnails - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Regenerate Thumbnails - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-10 15:36:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Regenerate Thumbnails - Stable (latest release)\n"
+
+#: includes/class-regeneratethumbnails-regenerator.php:612
+msgid "Attachment %d"
+msgstr "Anexo %d"
+
+#. Author URI of the plugin
+msgid "https://alex.blog/"
+msgstr "https://alex.blog/"
+
+#. Description of the plugin
+msgid "Regenerate the thumbnails for one or more of your image uploads. Useful when changing their sizes or your theme."
+msgstr "Recrie as miniaturas para um ou mais de suas imagens enviadas. Útil para quando você alterar seus tamanhos ou seu tema."
+
+#. Plugin URI of the plugin
+msgid "https://alex.blog/wordpress-plugins/regenerate-thumbnails/"
+msgstr "https://alex.blog/wordpress-plugins/regenerate-thumbnails/"
+
+#: regenerate-thumbnails.php:281
+msgid "{count} seconds"
+msgstr "{count} segundos"
+
+#: regenerate-thumbnails.php:280
+msgid "{count} minutes"
+msgstr "{count} minutos"
+
+#: regenerate-thumbnails.php:279
+msgid "{count} hours"
+msgstr "{count} horas"
+
+#: regenerate-thumbnails.php:278
+msgid "All done in {duration}."
+msgstr "Tudo pronto em {duration}."
+
+#: regenerate-thumbnails.php:275
+msgid "Regenerated {name}"
+msgstr "Recriada {name}"
+
+#: regenerate-thumbnails.php:274
+msgid "Resume"
+msgstr "Continuar"
+
+#: regenerate-thumbnails.php:273
+msgid "Pause"
+msgstr "Pausar"
+
+#: regenerate-thumbnails.php:272
+msgid "Regeneration Log"
+msgstr "Registo de recriação"
+
+#: regenerate-thumbnails.php:271
+msgid "Errors Encountered"
+msgstr "Erros encontrados"
+
+#: regenerate-thumbnails.php:265
+msgid "Error Regenerating"
+msgstr "Erro ao recriar"
+
+#: regenerate-thumbnails.php:264
+msgid "Done! Click here to go back."
+msgstr "Feito! Clique aqui para voltar."
+
+#: regenerate-thumbnails.php:263
+msgid "Regenerating…"
+msgstr "Recriando…"
+
+#: regenerate-thumbnails.php:261
+msgid "Preview"
+msgstr "Prévia"
+
+#: regenerate-thumbnails.php:260
+msgid "<code>{filename}</code> {width}×{height} pixels"
+msgstr "<code>{filename}</code> {width}×{height} pixels"
+
+#: regenerate-thumbnails.php:259
+msgid "<strong>ERROR:</strong> {error}"
+msgstr "<strong>ERRO:</strong> {error}"
+
+#. translators: single image sdmin page title
+#: regenerate-thumbnails.php:258
+msgid "Regenerate Thumbnails: {name} — WordPress"
+msgstr "Recriar miniaturas: {name} — WordPress"
+
+#: regenerate-thumbnails.php:251
+msgid "Alternatives"
+msgstr "Alternativas"
+
+#: regenerate-thumbnails.php:250
+msgid "These are all of the thumbnail sizes that are currently registered:"
+msgstr "Esses são todos os tamanhos de imagens registrados atualmente:"
+
+#: regenerate-thumbnails.php:249
+msgid "Thumbnail Sizes"
+msgstr "Tamanho das miniaturas"
+
+#: regenerate-thumbnails.php:223 regenerate-thumbnails.php:334
+msgid "Loading…"
+msgstr "Carregando..."
+
+#: regenerate-thumbnails.php:230
+msgid "cropped to fit"
+msgstr "cortada para caber"
+
+#: includes/class-regeneratethumbnails-rest-controller.php:262
+msgid "The page number requested is larger than the number of pages available."
+msgstr "O número de páginas requisitado é maior que o número de páginas disponível."
+
+#. translators: Used for listing old sizes of currently registered thumbnails
+#: includes/class-regeneratethumbnails-regenerator.php:686
+msgid "%s (old)"
+msgstr "%s (antigo)"
+
+#: includes/class-regeneratethumbnails-regenerator.php:73
+msgid "This item is not an attachment."
+msgstr "Esse item não é um anexo."
+
+#: includes/class-regeneratethumbnails-regenerator.php:62
+msgid "No attachment exists with that ID."
+msgstr "Não existe nenhum anexo com este ID."
+
+#. Author of the plugin
+msgid "Alex Mills (Viper007Bond)"
+msgstr "Alex Mills (Viper007Bond)"
+
+#. Plugin Name of the plugin
+msgid "Regenerate Thumbnails"
+msgstr "Regenerate Thumbnails"
+
+#: regenerate-thumbnails.php:433 regenerate-thumbnails.php:449
+#: regenerate-thumbnails.php:473
+msgid "Regenerate the thumbnails for this single image"
+msgstr "Recriar as miniaturas para essa única imagem"
