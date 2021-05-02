@@ -1,5 +1,6 @@
 <?php
 /**
+ * Aqui foi feito um teste de que este arquivo foi modificado para ser testado e analisar se o git está realmente ouvindo este arquivo.
  * As configurações básicas do WordPress
  *
  * O script de criação wp-config.php usa esse arquivo durante a instalação.
